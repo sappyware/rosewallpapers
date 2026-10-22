@@ -1,7 +1,17 @@
 # rosewallpapers
-A (cool) wallpaper engine..
+A (cool) wallpaper engine.
 
-![rosewallpapers screenshot](rosewallpapers.png)
+<table>
+  <tr>
+    <td><img src="rwp1.png" width="400"></td>
+    <td><img src="rwp2.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="rwp3.png" width="400"></td>
+    <td><img src="rwp4.png" width="400"></td>
+  </tr>
+</table> 
+
 ## requirements
 
 - **linux + wayland** — rosewallpapers is intended for wayland desktops.
