@@ -1,0 +1,32 @@
+fps = 30
+render_scale = 0.5
+pause_on_fullscreen = true
+pause_on_idle = true
+pause_on_battery = false
+crossfade = true
+crossfade_ms = 600
+
+[[wallpapers]]
+name = "topo"
+type = "shader"
+source = "shaders/topo.frag"
+
+[[wallpapers]]
+name = "plasma"
+type = "shader"
+source = "shaders/plasma.frag"
+
+[[wallpapers]]
+name = "aurora"
+type = "shader"
+source = "shaders/aurora.frag"
+
+[[wallpapers]]
+name = "gradient"
+type = "shader"
+source = "shaders/gradient.frag"
+
+[[wallpapers]]
+name = "ai1"
+type = "shader"
+source = "shaders/ai1.frag"
