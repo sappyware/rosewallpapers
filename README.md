@@ -94,6 +94,6 @@ type = "shader"
 source = "shaders/ai1.frag"
 
 ```
-## reverse-engineer the frag files yourself to make new wallpapers!
+## reverse-engineer the .frag files yourself to make new wallpapers!
 
 ## help me fix any bugs with PRs!
